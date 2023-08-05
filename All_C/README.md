@@ -24,5 +24,10 @@ If you are also on the C track or wish to embark on this journey together, join 
 
 ![Coding in C](coding_in_c.jpg)
 
+
+Join me on Discord for discussions and study sessions:
+[![Discord](discord_button.png)](https://discord.gg/dJgdBgKV)
+
+
 ---
 *I am an avid learner, passionate about mastering the C programming language. I believe that continuous practice and learning from the Exercism community will unlock new horizons for my coding abilities. Together, let's explore the depth and beauty of C programming!* 
