@@ -26,7 +26,7 @@ If you are also on the C track or wish to embark on this journey together, join 
 
 
 Join me on Discord for discussions and study sessions:
-[![Discord](discord_button.png)](https://discord.gg/dJgdBgKV)
+[![Discord]](https://discord.gg/dJgdBgKV)
 
 
 ---
