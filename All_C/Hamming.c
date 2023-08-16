@@ -16,3 +16,35 @@ They have 7 differences, and therefore the Hamming Distance is 7.
 The Hamming Distance is useful for lots of things in science, not just biology, so it's a nice phrase to be familiar with :)
 */
 
+#include<stdio.h>
+#include <stdbool.h>
+#include<string.h>
+
+int hamming(const char *str1, const char *str2) // Solution 1
+{
+    int count = 0;
+    if(!str1 || !str2)
+    {
+        return -1;
+    }
+    for(; *str1 && *str2; str1++, str2++)
+    {
+        if(*str1 != *str2)
+        {
+            count++;
+        }
+    }
+    return (*str1 || *str2) ? -1 : count;
+}
+
+int main()
+{
+    int answer;
+    char str1[100], str2[100];
+    printf("Provide the String 1 >_<\n");
+    scanf(" %[^\n]",str1);
+    printf("Provide the String 2 >_<\n");
+    scanf(" %[^\n]",str2);
+    answer = hamming(str1, str2);
+    printf("The Hamming Distance is %d",answer);
+}
