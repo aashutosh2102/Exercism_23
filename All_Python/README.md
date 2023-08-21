@@ -59,7 +59,7 @@ Python's simplicity, versatility, and vast ecosystem make it a popular choice fo
 
 ## Join Our Community
 
-[![Discord Server](https://i.imgur.com/abc123.png)](https://discord.gg/dJgdBgKV)
+[![Discord Server](https://i.imgur.com/CibzuxR.gif)](https://discord.gg/dJgdBgKV)
 
 Connect with fellow learners and enthusiasts on our Discord server to explore Python together: [Join the Python Learning Community](https://discord.gg/dJgdBgKV)
 
