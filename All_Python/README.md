@@ -1,5 +1,7 @@
 # Python Programming Language Overview
 
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+
 ## Introduction
 
 Python is a versatile and high-level programming language known for its readability and extensive standard library. It supports various programming paradigms, making it suitable for a wide range of applications.
@@ -55,6 +57,11 @@ Python was created by Guido van Rossum in the late 1980s. Its first release was 
 
 Python's simplicity, versatility, and vast ecosystem make it a popular choice for both beginners and experienced developers. Its clean syntax and powerful features empower developers to create a wide variety of applications.
 
-For more information and resources, visit the official [Python website](https://www.python.org/).
+## Join Our Community
+
+[![Discord Server](https://i.imgur.com/abc123.png)](https://discord.gg/dJgdBgKV)
+
+Connect with fellow learners and enthusiasts on our Discord server to explore Python together: [Join the Python Learning Community](https://discord.gg/dJgdBgKV)
 
 ---
+
